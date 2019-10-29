@@ -5,8 +5,9 @@ import (
 	"log"
 	"os"
 	"os/signal"
-	"proxy/services"
 	"syscall"
+
+	"./services"
 )
 
 const APP_VERSION = "3.0"

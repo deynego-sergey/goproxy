@@ -8,8 +8,9 @@ import (
 	"io"
 	"log"
 	"net"
-	"proxy/utils"
 	"time"
+
+	"../utils"
 )
 
 type TunnelClient struct {

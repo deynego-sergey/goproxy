@@ -4,13 +4,13 @@
 
 #example
 
-**.google.com proxy
-*.youtube.com
-*.baidu.com 114.114.114.114,system,direct
-b.com
-c.com
-d.com 8.8.8.8:53
-e.com
+# **.google.com proxy
+# *.youtube.com
+#*.baidu.com 114.114.114.114,system,direct
+# b.com
+# c.com
+# d.com 8.8.8.8:53
+# e.com
 
 #explain
 

@@ -6,10 +6,11 @@ import (
 	"fmt"
 	"log"
 	"net"
-	"proxy/utils"
 	"strconv"
 	"sync"
 	"time"
+
+	"../utils"
 )
 
 type BridgeItem struct {

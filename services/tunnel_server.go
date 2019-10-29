@@ -8,11 +8,12 @@ import (
 	"io"
 	"log"
 	"net"
-	"proxy/utils"
 	"runtime/debug"
 	"strconv"
 	"strings"
 	"time"
+
+	"../utils"
 )
 
 type TunnelServer struct {
